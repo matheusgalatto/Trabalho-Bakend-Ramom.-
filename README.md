@@ -21,6 +21,6 @@ O sistema atua na área educacional (EdTech) e gerencia o ciclo de estudo por me
 
 ## Tecnologias
 - Java e Spring Boot
-- PostgreSQL
+- Sql
 
 
